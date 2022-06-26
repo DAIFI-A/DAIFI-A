@@ -1,3 +1,6 @@
+
+[![Linkedin: imthepk](https://img.shields.io/badge/-Adaifi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abderrahmane-daifi-2170721b8/)](https://www.linkedin.com/in/abderrahmane-daifi-2170721b8/)
+
 [![adaifi's 42 stats](https://badge.mediaplus.ma/darkblue/adaifi)](https://github.com/oakoudad/badge42)
 
 
